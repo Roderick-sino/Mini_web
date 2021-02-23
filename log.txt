@@ -1,0 +1,766 @@
+
+2021-02-23 11:58:01,121-web.py[lineno:158]-WARNING-在终端启动程序参数的个数不等于2!
+2021-02-23 12:14:14,086-web.py[lineno:159]-WARNING-在终端启动程序参数的个数不等于2!
+2021-02-23 12:14:22,972-web.py[lineno:159]-WARNING-在终端启动程序参数的个数不等于2!
+2021-02-23 12:48:10,772-web.py[lineno:44]-INFO-recv_content:GET /index HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:48:10,776-web.py[lineno:90]-INFO-静态资源请求地址:/index
+2021-02-23 12:48:10,862-web.py[lineno:44]-INFO-recv_content:GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8000/index
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:48:10,862-web.py[lineno:90]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 12:48:16,166-web.py[lineno:44]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:48:16,166-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2021-02-23 12:48:16,466-web.py[lineno:44]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:48:16,467-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2021-02-23 12:50:58,547-web.py[lineno:44]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:50:58,548-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2021-02-23 12:50:59,613-web.py[lineno:44]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:50:59,613-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2021-02-23 12:50:59,620-web.py[lineno:44]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 12:50:59,621-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:03,522-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:03,523-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:04,561-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:04,562-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:04,571-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:04,572-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:05,581-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:05,582-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:05,584-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:05,585-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:05,827-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:05,828-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:06,035-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:06,036-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:06,154-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:06,155-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:06,365-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:06,366-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:06,550-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:06,550-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:06,756-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:06,756-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:11,905-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:11,906-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:04:12,201-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:04:12,201-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:14:44,346-web.py[lineno:43]-INFO-recv_content:GET /index.html/ HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+2021-02-23 13:14:44,346-web.py[lineno:89]-INFO-静态资源请求地址:/index.html/
+2021-02-23 13:14:44,395-web.py[lineno:43]-INFO-recv_content:GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+Accept: image/webp,*/*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8000/index.html/
+
+
+2021-02-23 13:14:44,396-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 13:15:50,134-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+2021-02-23 13:15:50,134-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:22:29,049-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:22:29,050-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:22:30,094-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:22:30,095-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:22:30,101-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:22:30,101-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:40:19,208-web.py[lineno:159]-WARNING-在终端启动程序参数的个数不等于2!
+2021-02-23 13:45:50,097-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:45:50,098-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:45:50,183-web.py[lineno:43]-INFO-recv_content:GET /css/bootstrap.min.css HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:45:50,183-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 13:45:50,347-web.py[lineno:43]-INFO-recv_content:GET /js/jquery-1.12.4.min.js HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:45:50,348-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 13:45:50,486-web.py[lineno:43]-INFO-recv_content:GET /js/bootstrap.min.js HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:45:50,487-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 13:45:55,740-web.py[lineno:43]-INFO-recv_content:GET /center.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:45:55,740-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 13:45:55,741-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 13:45:59,461-web.py[lineno:43]-INFO-recv_content:GET /center.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:45:59,462-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 13:45:59,462-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 13:46:06,228-web.py[lineno:43]-INFO-recv_content:GET /center_data.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:46:06,228-web.py[lineno:57]-INFO-动态资源请求地址:/center_data.html
+2021-02-23 13:46:06,228-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center_data.html
+2021-02-23 13:48:25,343-web.py[lineno:43]-INFO-recv_content:GET /center_data.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:25,346-web.py[lineno:57]-INFO-动态资源请求地址:/center_data.html
+2021-02-23 13:48:25,347-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center_data.html
+2021-02-23 13:48:30,754-web.py[lineno:43]-INFO-recv_content:GET /center.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:30,754-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 13:48:30,754-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 13:48:39,330-web.py[lineno:43]-INFO-recv_content:GET /index2.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:39,330-web.py[lineno:57]-INFO-动态资源请求地址:/index2.html
+2021-02-23 13:48:39,331-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/index2.html
+2021-02-23 13:48:45,597-web.py[lineno:43]-INFO-recv_content:GET /index.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:45,598-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 13:48:45,898-web.py[lineno:43]-INFO-recv_content:GET /css/bootstrap.min.css HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:45,898-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 13:48:45,958-web.py[lineno:43]-INFO-recv_content:GET /js/jquery-1.12.4.min.js HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:45,959-web.py[lineno:43]-INFO-recv_content:GET /js/bootstrap.min.js HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:45,959-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 13:48:45,960-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 13:48:50,510-web.py[lineno:43]-INFO-recv_content:GET /add/000007.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:50,511-web.py[lineno:57]-INFO-动态资源请求地址:/add/000007.html
+2021-02-23 13:48:50,512-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/add/000007.html
+2021-02-23 13:48:54,065-web.py[lineno:43]-INFO-recv_content:GET /center.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 13:48:54,066-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 13:48:54,066-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:27:17,091-web.py[lineno:43]-INFO-recv_content:GET /center.html HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 Edg/88.0.705.74
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8000/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+
+2021-02-23 14:27:17,092-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:27:17,092-framework.py[lineno:195]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:42:20,989-web.py[lineno:159]-WARNING-在终端启动程序参数的个数不等于2!
+2021-02-23 14:42:33,703-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:42:33,703-framework.py[lineno:197]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:42:33,727-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 14:42:34,553-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:42:34,554-framework.py[lineno:197]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:42:34,855-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 14:42:37,782-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 14:42:37,859-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 14:42:38,033-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 14:42:38,162-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 14:43:36,520-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:43:36,520-framework.py[lineno:197]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:46:02,803-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:46:02,803-framework.py[lineno:197]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:46:02,825-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 14:47:06,583-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:47:06,585-framework.py[lineno:198]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:47:06,605-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 14:48:06,826-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:07,877-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:07,881-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:09,905-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:10,314-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:10,317-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:44,925-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:48:44,926-framework.py[lineno:200]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:48:44,961-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 14:50:12,471-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:50:12,472-framework.py[lineno:201]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:50:12,490-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 14:54:37,357-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 14:54:37,358-framework.py[lineno:200]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 14:54:37,386-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:06:13,014-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:06:13,015-framework.py[lineno:200]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:06:13,037-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:08:21,607-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:08:21,608-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:08:21,630-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:08:56,295-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:08:56,295-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:08:56,318-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:11:42,572-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:11:42,573-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:42,573-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:42,573-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:43,618-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:11:43,620-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:43,620-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:43,621-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:43,623-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:11:43,627-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:43,627-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:11:43,628-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:21:27,844-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:21:27,845-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:21:27,929-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:25:42,496-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:27:09,933-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:27:10,982-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:27:10,987-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:28:19,467-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:28:19,470-framework.py[lineno:208]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:28:19,765-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:28:58,652-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:28:58,655-framework.py[lineno:209]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:28:58,682-web.py[lineno:89]-INFO-静态资源请求地址:/favicon.ico
+2021-02-23 15:36:16,018-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 15:36:16,093-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 15:36:16,270-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 15:36:16,397-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 15:36:22,690-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:36:22,690-framework.py[lineno:207]-ERROR-没有设置相关的路由信息：/center.html
+2021-02-23 15:41:36,343-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 15:41:36,402-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 15:41:36,595-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 15:41:36,704-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 15:41:37,031-web.py[lineno:57]-INFO-动态资源请求地址:/center_data.html
+2021-02-23 15:41:37,285-web.py[lineno:89]-INFO-静态资源请求地址:/fonts/glyphicons-halflings-regular.woff
+2021-02-23 15:42:14,426-web.py[lineno:57]-INFO-动态资源请求地址:/center_data.html
+2021-02-23 15:53:09,886-web.py[lineno:57]-INFO-动态资源请求地址:/center_data2.html
+2021-02-23 15:53:09,888-framework.py[lineno:209]-ERROR-没有设置相关的路由信息：/center_data2.html
+2021-02-23 18:50:47,196-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 18:50:47,262-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 18:50:47,263-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 18:50:47,316-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 18:56:29,145-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 18:56:29,148-web.py[lineno:89]-INFO-静态资源请求地址:/robots.txt
+2021-02-23 18:56:29,198-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
+2021-02-23 18:56:29,199-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 18:56:29,236-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 18:56:29,247-web.py[lineno:57]-INFO-动态资源请求地址:/center.html
+2021-02-23 18:56:29,292-web.py[lineno:89]-INFO-静态资源请求地址:/fonts/glyphicons-halflings-regular.woff
+2021-02-23 18:56:29,293-web.py[lineno:89]-INFO-静态资源请求地址:/fonts/glyphicons-halflings-regular.ttf
+2021-02-23 18:56:29,319-web.py[lineno:89]-INFO-静态资源请求地址:/fonts/glyphicons-halflings-regular.svg
+2021-02-23 18:56:29,346-web.py[lineno:89]-INFO-静态资源请求地址:/fonts/glyphicons-halflings-regular.eot?
+2021-02-23 18:56:29,364-web.py[lineno:89]-INFO-静态资源请求地址:/fonts/glyphicons-halflings-regular.eot
+2021-02-23 18:56:29,376-web.py[lineno:57]-INFO-动态资源请求地址:/center_data.html
+2021-02-23 18:56:29,393-web.py[lineno:57]-INFO-动态资源请求地址:/update/000007.html
+2021-02-23 18:56:29,395-framework.py[lineno:209]-ERROR-没有设置相关的路由信息：/update/000007.html
+2021-02-23 18:56:53,164-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2021-02-23 18:56:53,415-web.py[lineno:89]-INFO-静态资源请求地址:/css/bootstrap.min.css
+2021-02-23 18:56:53,491-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2021-02-23 18:56:53,492-web.py[lineno:89]-INFO-静态资源请求地址:/js/bootstrap.min.js
